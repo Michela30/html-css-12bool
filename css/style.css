@@ -1,18 +1,27 @@
 @import url(reset.css);
 @import url(general.css);
 
-/* 
-HEADER
-*/
 
 /* 
 MAIN
 */
 
-/* 
-FOOTER
-*/
+.blue{
+    background-color: #006CFA;
+    border: 1px solid white;
+    padding: 10px;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-size: small;
+}
 
+.green{
+    background-color: #00E165;
+    border: 1px solid white;
+    padding: 10px;
+}
 
 
 
