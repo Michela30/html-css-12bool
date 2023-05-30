@@ -1,0 +1,75 @@
+@import url(reset.css);
+@import url(general.css);
+
+
+body{
+    background-image: url(../img/canvas.avif);
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* 
+MAIN
+*/
+main{
+    margin-top: 150px;
+}
+
+.col-4 img{
+    width: 100%;
+    margin-top: 250px;
+}
+/* 
+MUSICAL NOTES
+*/
+.black{
+    background-color: black;
+    padding: 10px;
+    height: 10px;
+    width: 100%;
+    border: 0.5px solid grey;
+}
+
+.girl{
+    padding: 10px;
+    height: 10px;
+    width: 100%;
+}
+
+
+/* 
+MEDIA QUERY da Desktop first
+*/
+
+/* Tablet */
+
+@media screen and (max-width: 768px){
+
+}
+
+
+/* Mobile */
+@media screen and (max-width: 576px){
+    
+}
+
+
+
+/* 
+MEDIA QUERY da Mobile first
+*/
+
+/* Tablet */
+
+@media screen and (min-width: 768px){
+
+}
+
+
+/* Desktop */
+@media screen and (min-width: 992px){
+    
+}
+
+

@@ -1,0 +1,100 @@
+
+/* GENERAL */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.general-container{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.general-container-2{
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.note1{
+    margin-top: 100px;
+}
+.note2{
+    margin-top: 100px;
+}
+
+.girl-box{
+    margin-left: 200px;
+}
+
+/* 
+COLORS
+*/
+
+:root{
+    --hair-color: #593E17;
+    --hair-color-light: #93670E;
+    --hair-color-shadow: #BB8309;
+    --face-color: #FEB07F;
+    --face-color-dark: #FE9452;
+    --cheek-color: #FFA068;
+    --eyes-color: #067E91;
+    --lips-color: #FF7778;
+    --headphones-color: #35C97B;
+    --headphones-dark-color: #26965C;
+    --shirt-color: #DC2270;
+    --shirt-light-color: #FE63A7;
+    --shirt-medium-color: #FD2B89;
+}
+
+
+.hair-color{
+    background-color: #593E17;
+}
+
+.hair-color-light{
+    background-color: #93670E;
+}
+
+.hair-color-shadow{
+    background-color: #BB8309;
+}
+
+.face-color{
+    background-color: #FEB07F;
+}
+
+.face-color-dark{
+    background-color: #FE9452;
+}
+
+.cheek-color{
+    background-color: #FFA068;
+}
+
+.eyes-color{
+    background-color: #067E91;
+}
+
+.lips-color{
+    background-color: #FF7778;
+}
+
+.headphones-color{
+    background-color: #35C97B;
+}
+
+.headphones-dark-color{
+    background-color: #26965C;
+}
+
+.shirt-color{
+    background-color: #DC2270;
+}
+
+.shirt-light-color{
+    background-color: #FE63A7;
+}
+
+.shirt-medium-color{
+    background-color: #FD2B89;
+}
